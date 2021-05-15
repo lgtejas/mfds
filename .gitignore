@@ -5,3 +5,4 @@ share/**
 etc/**
 pip-selfcheck.json
 pyvenv.cfg
+.ipynb_checkpoints/**
