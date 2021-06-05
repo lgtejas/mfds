@@ -6,3 +6,4 @@ etc/**
 pip-selfcheck.json
 pyvenv.cfg
 .ipynb_checkpoints/**
+assignment_1/.ipynb_checkpoints/q1-checkpoint.ipynb
